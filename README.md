@@ -1,2 +1,3 @@
 # Blog
-My blog storage
+
+My blog storage.
