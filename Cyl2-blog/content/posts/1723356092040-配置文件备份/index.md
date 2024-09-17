@@ -24,8 +24,6 @@ permit nopass kl cmd eix-sync
 ```bash
 # Install p10k theme
 zmodule romkatv/powerlevel10k
-# Install dracula colour
-zmodule dracula
 ```
 
 ## .zshrc
