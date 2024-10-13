@@ -9,6 +9,6 @@ tags: ["article", "tag"]
 
 博客的搭建参考了：[如何用 GitHub Pages + Hugo 搭建个人博客](https://github.com/miawithcode/blog/blob/main/cuttontail/content/blog/202208%20create-a-wesite-using-github-pages-and-hugo/index.md)（[cuttontail](https://github.com/miawithcode)）
 
-使用了[Blowfish](https://blowfish.page/)主题
+使用了[Blowfish](https://blowfish.page/)主题，启用[Waline](https://waline.js.org/)作为评论插件（部署在[Vercel](https://vercel.com/)上）。
 
-使用VScode作为默认编辑器
+使用VScode作为默认的博客编辑器。
