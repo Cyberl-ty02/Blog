@@ -30,6 +30,7 @@ cardViewScreenWidth = false
 layoutBackgroundBlur = false
 
 [article]
+showComments = true
 showDate = true
 showViews = false
 showLikes = false

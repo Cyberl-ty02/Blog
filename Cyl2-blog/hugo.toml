@@ -1,5 +1,10 @@
-baseURL = 'https://cyberl-ty02.github.io/'
+# baseURL = 'https://cyberl-ty02.github.io/'
+baseURL = 'https://hatsunemiku.club/'
+
+# 如果你的博客主要语言是中文的话, 需要将其设置为
 languageCode = 'zh-CN'
+defaultContentLanguage = "zh-cn"
+
 title = 'My Own Blog'
 
 [Params]
