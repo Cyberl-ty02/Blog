@@ -13,11 +13,11 @@ Gentoo 安装教程1（[cwittlut菊苣](https://ume.ink/)）：[Gentoo Linux 安
 
 Gentoo 安装教程2（[Houge菊苣](https://litterhougelangley.club/blog/)）：[Gentoo 安装](https://litterhougelangley.club/blog/2021/05/21/gentoo/)
 
-[Gabriele Svelto](gabriele.svelto@gmail.com)：如何在启用安全启动的情况下[把Shim Gentoo签名到主板](https://www.setphaserstostun.org/posts/secure-boot-on-gentoo-with-shim-grub/)
-
 Gentoo 使用musl+llvm stage3包来安装（[Raymond Kwok](https://blog.zozx.top/about)）：[尝试以musl作为libc安装Gentoo之后的想法和建议 | Raymond&#39;s Blog (zozx.top)](https://blog.zozx.top/2021/11/27/feeling-after-installing-gentoo-with-musl-libc/)
 
-Gentoo [韩菊苣](https://github.com/12101111)的Overlay(用于配合musl安装)：[overlay: 12101111](https://github.com/12101111/overlay)
+Gentoo [韩菊苣](https://github.com/12101111)的Overlay（用于配合musl安装）：[overlay: 12101111](https://github.com/12101111/overlay)
+
+Gentoo 如何在启用安全启动的前提下安装（[setphaserstostun](https://www.setphaserstostun.org/)）：[Secure Boot on Gentoo with shim &amp; GRUB](https://www.setphaserstostun.org/posts/secure-boot-on-gentoo-with-shim-grub/)
 
 ## WSL 部分教程
 
