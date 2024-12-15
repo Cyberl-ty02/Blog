@@ -1,13 +1,15 @@
 theme = "blowfish"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
 buildDrafts = false
 buildFuture = false
 enableEmoji = true
 googleAnalytics = ""
 baseURL = "https://cyberl-ty02.github.io/"
+
+[pagination]
+pagerSize = 10
 
 [imaging]
 anchor = "Center"

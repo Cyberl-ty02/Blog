@@ -10,7 +10,7 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
 [header]
-layout = "basic"
+layout = "fixed"
 
 [footer]
 showMenu = true

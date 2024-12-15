@@ -4,6 +4,7 @@ weight = 1
 title = "Cyberls-Blog"
 
 [params]
+author = { name = "Cyberl-ty02", image = "wxt01.jpg" }
 displayName = "EN"
 isoCode = "en"
 rtl = false
@@ -12,7 +13,4 @@ logo = "wxt01.jpg"
 secondaryLogo = "wxt01.jpg"
 description = ""
 
-[author]
-name = "Cyberl-ty02"
-image = "wxt01.jpg"
-links = []
+

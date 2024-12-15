@@ -3,7 +3,7 @@ baseURL = 'https://hatsunemiku.club/'
 
 # 如果你的博客主要语言是中文的话, 需要将其设置为
 languageCode = 'zh-CN'
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "zh-CN"
 
 title = 'My Own Blog'
 
